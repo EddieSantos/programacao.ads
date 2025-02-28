@@ -5,11 +5,11 @@ int main() {
     // Declarando as variáveis da Carta 1
     int carta = 1; // Número de carta variavel que sera incrementada postriormente como contagem de cartas
 
-    char codigo[] = "01";
+    char codigo[3] = "01";
 
-    char estado[] = "A";
+    char estado[2] = "A";
 
-    char cidade[] = "SaoPaulo";
+    char cidade[] = "Contagem";
 
     int populacao = 12000000;
 
